@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "E1C8CD49-BB9B-4184-AA78-F135234B8322",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 21,
+    "width": 40,
+    "x": 684,
+    "y": 96
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C2CEAAE7-DC63-4F47-9537-66808FBE7786"
+    },
+    {
+      "class": "group",
+      "id": "0744BCB3-B10B-4FF9-8212-B056CBB82B37"
+    },
+    {
+      "class": "group",
+      "id": "2674C4DF-E8FB-4A29-A890-3E885374D506"
+    }
+  ],
+  "name": "burger",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

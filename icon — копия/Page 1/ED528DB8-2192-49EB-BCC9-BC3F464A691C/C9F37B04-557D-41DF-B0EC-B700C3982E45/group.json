@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "C9F37B04-557D-41DF-B0EC-B700C3982E45",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 49,
+    "width": 71,
+    "x": 171,
+    "y": 152
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1E2CCEE4-A4D9-4B78-AACA-0C6DBBE5FB47"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "082B6C70-EE2D-4812-A751-1A9BE0CFF241"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CA9D6CE6-9B12-4DEA-8D73-8E0F20DAE6F1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5E55468D-597D-4E00-8CA2-2E365ADA4E7F"
+    }
+  ],
+  "name": "pencil",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

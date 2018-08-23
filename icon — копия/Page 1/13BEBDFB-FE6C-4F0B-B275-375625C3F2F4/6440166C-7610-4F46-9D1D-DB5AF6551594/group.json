@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "6440166C-7610-4F46-9D1D-DB5AF6551594",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 63,
+    "width": 88,
+    "x": 398,
+    "y": 75
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8C2BE78D-F7F2-4C66-AC93-D01DF0ED03C1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BD66AA27-4AC6-454D-95CE-606F43A8F2FB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BE013992-8756-47B1-AB71-142BFEBBD38A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B71F3CB1-D996-4C55-9F2F-58C3D5952989"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F2BE3EE0-57CE-47DB-96D7-9BD94E9877EB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E1E7C48A-DE1C-49BE-80E8-3CBC8818EFF5"
+    }
+  ],
+  "name": "pencil",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
